@@ -1,15 +1,15 @@
-# File Organizer 🗂️
+# File Organizer 
 
 A Python command-line tool that automatically sorts files in a folder
 into subfolders, based on file type and/or modification date.
 
 ## Features
-- Sort by **type** (Images, Documents, Code, Audio, Video, Archives, ...)
-- Sort by **date** (year-month of last modification)
+- Sort by type (Images, Documents, Code, Audio, Video, Archives, ...)
+- Sort by date (year-month of last modification)
 - Combine both (type/date)
-- **Dry-run mode**: preview what would happen without moving anything
+- Dry-run mode: preview what would happen without moving anything
 - Prevents overwriting files with the same name
-- No external dependencies — Python standard library only
+- No external dependencies (Python standard library only)
 
 ## Usage
 
